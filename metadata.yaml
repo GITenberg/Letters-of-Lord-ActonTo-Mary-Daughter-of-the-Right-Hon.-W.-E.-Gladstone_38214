@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5779
     wikipedia: http://en.wikipedia.org/wiki/Herbert_Paul
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38214#Letters-of-Lord-ActonTo-Mary-Daughter-of-the-Right-Hon.-W.-E.-Gladstone
 gutenberg_issued: '2011-12-04'
 gutenberg_type: Text
 identifiers:
